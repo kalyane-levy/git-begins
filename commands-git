@@ -12,3 +12,6 @@ git commit -m "First commit"
 
 git push origin x
 --> to fully send to GitHub in the x branch
+
+git pull
+--> To pull !
