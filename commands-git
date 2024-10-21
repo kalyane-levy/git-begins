@@ -1,0 +1,14 @@
+--> Cloner un repository :
+git clone
+
+--> Les 3 commandes de push :
+
+git add .
+--> to take into account all the files just added
+
+git commit -m "First commit"
+--> to pre-send to GitHub with a message that says "what I've done" which will be useful to do and track modifications later on
+
+
+git push origin x
+--> to fully send to GitHub in the x branch
